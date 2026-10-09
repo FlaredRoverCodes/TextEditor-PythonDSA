@@ -1,0 +1,1 @@
+A lightweight, production-ready Python implementation of a text editor featuring efficient Undo and Redo functionalities powered by dual-stack data structures. This repository demonstrates how to manage document state history with optimal O(1) time complexity using a custom Stack implementation.
